@@ -5,7 +5,9 @@
 Демка по адресу: vu.elsu.ru
 
 Выполнена на js с использованием impress.js
-Демка по адресу: vu.elsu.ru
+Демка по адресу: http://vladimirandropov.github.io/portfolio/#/overview
+
+Для презентации использованы:
 ---------
 impress.js LICENSE
 ---------
